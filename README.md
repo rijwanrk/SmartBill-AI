@@ -195,7 +195,7 @@ Finvoice-AI/
 ### 🧩 Clone Repository
 
 ```bash
-git clone https://github.com/rijwanrk/SmartBill-AI
+git clone https://github.com/rijwanrk/SmartBill-AI.git
 cd SmartBill-AI
 ```
 
