@@ -1,7 +1,5 @@
 # 🧾 SmartBill AI
 
-[![SmartBill AI CI](https://github.com/Harsimar-Sahota/Finvoice-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Harsimar-Sahota/Finvoice-AI/actions/workflows/ci.yml)
-
 ### AI-Powered Invoice Generator & Finance Assistant (MERN + Gemini AI)
 
 **SmartBill AI** is a production-ready, full-stack SaaS app for automating invoicing and basic finance workflows.
@@ -21,7 +19,7 @@ It turns plain text (emails, chats, notes) into structured invoices, sends AI-ge
 
 ## 🌐 Live Demo
 
-🔗 **App URL:** **[https://www.finvoiceai.app](https://www.finvoiceai.app)**
+🔗 **App URL:** **[https://www.SmartBill-AI.app](https://smartbill-ai-frontend.onrender.com)**
 🔐 **Test Credentials:**
 
 ```
@@ -327,7 +325,7 @@ This project aligns with Y Combinator’s mission of building AI tools that auto
 
 ## 👨‍💻 Author
 
-**Harsimar Preet Singh Sahota**
+**Rizwan khan**
 Full Stack Developer — MERN + AI
 
 🌐 [GitHub](https://github.com/rijwanrk)
