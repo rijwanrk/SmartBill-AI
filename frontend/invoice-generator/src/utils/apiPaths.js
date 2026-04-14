@@ -1,4 +1,4 @@
-export const BASE_URL = "https://finvoice-ai-backend.onrender.com";
+export const BASE_URL = "https://smartbill-ai-1cfx.onrender.com";
 
 export const API_PATHS = {
   AUTH: {

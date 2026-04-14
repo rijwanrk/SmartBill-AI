@@ -2,7 +2,7 @@ import axios from "axios";
 import { BASE_URL } from "./apiPaths";
 
 const axiosInstance = axios.create({
-  baseURL: "https://finvoice-ai-backend.onrender.com",
+  baseURL: "https://smartbill-ai-1cfx.onrender.com",
   timeout: 80000,
   headers: {
     "Content-Type": "application/json",
